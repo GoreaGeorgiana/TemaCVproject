@@ -1,0 +1,22 @@
+.Description{
+    display:block;
+    justify-content:start;
+    width:60vw;
+    margin-top:5vh;
+    margin-right:5vw;
+    
+}
+
+.title{
+    margin-top: 5vh;
+    font-size:2vh;
+    font-family: 'Times New Roman';
+    margin-left: 5vw;
+    border-top:0.5vw solid  rgb(227, 214, 240);
+}
+
+.text{
+    margin-left: 5vw;
+    font-size: 3vh;
+    font-family: 'Times New Roman';
+}
